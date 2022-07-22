@@ -1,5 +1,7 @@
 # SQL - Dataset: theLook eCommerce
 
+### Click [here](https://tabsoft.co/3yRS5uY) to see a Tableau Summary Viz of the findings.
+
 #### Fetching the data available on [Google Cloud](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?hl=es-419), through the BigQuery API.
 
 
